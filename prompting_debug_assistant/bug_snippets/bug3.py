@@ -1,12 +1,19 @@
-def get_student_name(students, index):
-    return students[index]
-
-
 students = ["Ali", "Leyla", "Murad", "Aysel"]
 
-def display_student(students, index):
-    name = get_student_name(students, index)
+
+def get_student_name(student_list, index):
+    name = student_list[index]
+    return name
+
+
+def display_student(student_list, index):
+    name = get_student_name(student_list, index)
     print("Student name:", name)
 
 
-display_student(students, 5)
+def main():
+    print("Total students:", len(students))
+    display_student(students, 5)
+
+
+main()

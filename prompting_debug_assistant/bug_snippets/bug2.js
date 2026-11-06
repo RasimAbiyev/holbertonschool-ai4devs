@@ -9,6 +9,8 @@ function calculateTotal(prices) {
 }
 
 const prices = [10, 20, 30];
+const count = prices.length;
 const result = calculateTotal(prices);
 
+console.log("Item count:", count);
 console.log("Total price:", result);

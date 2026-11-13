@@ -7,6 +7,11 @@ Branch analyzed: 1.12-stable
 Package version: 1.12.5-pre
 
 ## 2. Project Background
+Project announcement: January 14, 2006.
+First stable release: jQuery 1.0, August 26, 2006.
+Project age: approximately 20 years as of November 2026.
+Official history: https://jquery.com/history/
+
 jQuery is an open-source JavaScript library designed to simplify DOM manipulation, event handling, animations, and AJAX operations.
 The selected 1.x branch represents an older generation of the library and is useful for studying legacy JavaScript architecture.
 

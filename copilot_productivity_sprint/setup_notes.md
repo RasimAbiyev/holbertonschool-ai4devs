@@ -38,7 +38,7 @@ Note: The built-in Copilot Chat component was available in VS Code. The standalo
 
 ## 7. Setup Process
 
-1. Opened the project environment in Visual Studio Code using `code .`.
+1. Opened the project in Visual Studio Code and used its integrated terminal for setup commands.
 2. Checked the installed versions of Git, Python, and Visual Studio Code.
 3. Opened the Copilot Chat interface in VS Code.
 4. Signed in using a GitHub account.
